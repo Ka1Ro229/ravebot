@@ -1,0 +1,11 @@
+{
+  "name": "rave-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.6.1",
+    "node-fetch": "^3.3.2"
+  }
+}

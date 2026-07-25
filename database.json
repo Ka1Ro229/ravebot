@@ -1,0 +1,175 @@
+{
+  "maclar": [
+    {
+      "id": 1,
+      "karsilasma": "Rave vs BBL",
+      "takim1": "Rave",
+      "takim2": "BBL",
+      "harita": "Haven",
+      "zaman": "21:00",
+      "skor": "Rave Kazandı",
+      "durum": "Tamamlandı",
+      "bahisler": {
+        "1": {},
+        "2": {}
+      }
+    },
+    {
+      "id": 2,
+      "karsilasma": "Rave vs BBL",
+      "takim1": "Rave",
+      "takim2": "BBL",
+      "harita": "Haven",
+      "zaman": "21:00",
+      "skor": "Rave Kazandı",
+      "durum": "Tamamlandı",
+      "bahisler": {
+        "1": {
+          "1210240349448962058": 1000
+        },
+        "2": {}
+      }
+    }
+  ],
+  "kadrolar": {},
+  "ekonomiler": {
+    "1200491176487309313": 6478,
+    "1210240349448962058": 329143,
+    "1023959051840794805": 70199
+  },
+  "transferler": [],
+  "scrimler": [
+    {
+      "takim": "kka1roo",
+      "harita": "ascent",
+      "saat": "03:00"
+    }
+  ],
+  "profilleri": {
+    "1210240349448962058": {
+      "riotId": "Ka1Ro#PSEP",
+      "rank": "Bilinmiyor (API Yanıt Vermedi)",
+      "rol": "Duelist",
+      "banner": "Neon Mor"
+    },
+    "1200491176487309313": {
+      "riotId": "Ka1Roo",
+      "rank": "Gold3",
+      "rol": "Entry",
+      "banner": "Standart Tema"
+    },
+    "1023959051840794805": {
+      "riotId": "tantanac",
+      "rank": "Gold",
+      "rol": "Clove",
+      "banner": "Sakso Beyazı"
+    }
+  },
+  "cekilisler": {
+    "1784922999382": {
+      "katilanlar": [
+        "1200491176487309313",
+        "1210240349448962058"
+      ],
+      "aktif": false
+    }
+  },
+  "envanterler": {
+    "1210240349448962058": [
+      {
+        "id": "1",
+        "ad": "VIP Üye Statüsü",
+        "bitisTarihi": 1785532663753,
+        "satinAlimTarihi": 1784927863753
+      },
+      {
+        "id": "4",
+        "ad": "MVP Profil Unvanı",
+        "bitisTarihi": 1785532663753,
+        "satinAlimTarihi": 1784927863753
+      },
+      {
+        "id": "7",
+        "ad": "Clutch Kralı Unvanı",
+        "bitisTarihi": 1785532663753,
+        "satinAlimTarihi": 1784927863753
+      },
+      {
+        "id": "11",
+        "ad": "Özel Profil Banner",
+        "miktar": 1,
+        "satinAlimTarihi": 1784927863753
+      },
+      {
+        "id": "5",
+        "ad": "Gizli Esport Kasası",
+        "miktar": 4,
+        "satinAlimTarihi": 1784928566315
+      }
+    ],
+    "1200491176487309313": [
+      {
+        "id": "1",
+        "ad": "VIP Üye Statüsü",
+        "tarih": 1784925597544
+      },
+      {
+        "id": "11",
+        "ad": "Özel Profil Banner",
+        "miktar": 2,
+        "satinAlimTarihi": 1784926803481
+      }
+    ],
+    "1023959051840794805": [
+      {
+        "id": "11",
+        "ad": "Özel Profil Banner",
+        "miktar": 1,
+        "satinAlimTarihi": 1784927918101
+      },
+      {
+        "id": "1",
+        "ad": "VIP Üye Statüsü",
+        "bitisTarihi": 1785532738216,
+        "satinAlimTarihi": 1784927938216
+      },
+      {
+        "id": "7",
+        "ad": "Clutch Kralı Unvanı",
+        "bitisTarihi": 1785532759052,
+        "satinAlimTarihi": 1784927959052
+      },
+      {
+        "id": "14",
+        "ad": "Efsanevi Bıçak / Skin Kasası",
+        "miktar": 5,
+        "satinAlimTarihi": 1784928422446
+      }
+    ]
+  },
+  "sepetler": {},
+  "klipler": {},
+  "turnuva": {
+    "aktif": true,
+    "asama": "kayit",
+    "odul": 100000,
+    "katilanlar": [
+      "1210240349448962058"
+    ],
+    "tur": 1,
+    "maclar": []
+  },
+  "gorevler": {
+    "1210240349448962058": {
+      "tarih": "2026-07-24",
+      "gunluk": true,
+      "bahis": false,
+      "klip": false,
+      "alindi": false
+    }
+  },
+  "bahisligi": {},
+  "gunlukler": {
+    "1210240349448962058": 1784935278756
+  }
+}
